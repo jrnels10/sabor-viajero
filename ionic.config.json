@@ -1,0 +1,7 @@
+{
+  "name": "sabor-viajero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
